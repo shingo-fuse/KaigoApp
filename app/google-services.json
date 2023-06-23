@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "747962736292",
+    "project_id": "kaigoapp-d5b59",
+    "storage_bucket": "kaigoapp-d5b59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747962736292:android:3d12cca3d47adeab801031",
+        "android_client_info": {
+          "package_name": "jp.techacademy.shingo.fuse.kaigoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747962736292-ggg7tj8pgo0ep7sk6bq7ve9q0j95f1fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwv4tddjchohaC4pErqNOfMN7Hr7C16t4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747962736292-ggg7tj8pgo0ep7sk6bq7ve9q0j95f1fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
